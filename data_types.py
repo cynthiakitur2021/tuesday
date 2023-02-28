@@ -1,6 +1,4 @@
-num1 = int(input("Enter any number"))
-num2 = int(input("Enter a second number"))
-
-print(num1)
-print(num2
-      )
+month = int(input("Fill in your age bro;"))
+age = 12
+number = month / age
+print(f"You have lived for {number} years ")
